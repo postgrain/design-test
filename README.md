@@ -2,7 +2,6 @@
 
 Elaborar um editor de mídias online bem simples que deve ser utilizado por outras aplicações web, como um serviço externo.
 
-- Utilize poucos botões na sua solução. Esperamos uma interface simples e intuitíva.   
 - Pense e descreva todos os comportamentos dos elementos que criar. 
 - Detalhe como deve ser a experiência do usuário ao utilizar o editor. 
 - Descreva os trade-offs que precisou fazer e porque os fez.
@@ -30,7 +29,7 @@ Não se preocupe com coisas que não estão listadas no desafio, para não gasta
 só iremos considerar as coisas que estão definidas aqui.
 
 ## Avaliação
-Esse desafio visa avaliar sua criatividade e capacidade de comunicação. Também esperamos que sua solução seja resiliente e escalável.
+Esse desafio visa avaliar sua criatividade, domínio técnico e capacidade de comunicação escrita e oral. Também esperamos que sua solução seja resiliente e escalável.
 
 ## Entregando o teste
 Você deverá enviar sua solução para o email candidatos@postgrain.com com o título `UI/UX design challenge - <SEU NOME>`. Caso você não consiga fazer todos os requisitos que pedimos, não tem problema algum. Ao entregar, deixe explicado o que você não conseguiu fazer e o que mais achar que faz sentido.
