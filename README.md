@@ -32,4 +32,4 @@ só iremos considerar as coisas que estão definidas aqui.
 Esse desafio visa avaliar sua criatividade, domínio técnico e capacidade de comunicação escrita e oral. Também esperamos que sua solução seja resiliente e escalável.
 
 ## Entregando o teste
-Você deverá enviar sua solução para o email candidatos@postgrain.com com o título `UI/UX design challenge - <SEU NOME>`. Caso você não consiga fazer todos os requisitos que pedimos, não tem problema algum. Ao entregar, deixe explicado o que você não conseguiu fazer e o que mais achar que faz sentido.
+Você deverá enviar sua solução para o email elizabete.nascimento@postgrain.com com o título `UI/UX design challenge - <SEU NOME>`. Caso você não consiga fazer todos os requisitos que pedimos, não tem problema algum. Ao entregar, deixe explicado o que você não conseguiu fazer e o que mais achar que faz sentido.
